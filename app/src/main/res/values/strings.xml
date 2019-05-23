@@ -1,0 +1,10 @@
+<resources>
+    <string name="home">home</string>
+    <string name="app_name">My Application</string>
+    <string name="appbar_scrolling_view_behavior" >android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="kontak">kontak</string>
+    <string name="profil">profil</string>
+
+
+</resources>
+
